@@ -1,0 +1,24 @@
+C:\Users\Amane\Downloads\newegg-marketplace-sdk-dotnet-master (2)\newegg-marketplace-sdk-dotnet-master\Newegg.Marketplace.SDK\Newegg\bin\Debug\netcoreapp3.1\Newegg.exe
+C:\Users\Amane\Downloads\newegg-marketplace-sdk-dotnet-master (2)\newegg-marketplace-sdk-dotnet-master\Newegg.Marketplace.SDK\Newegg\bin\Debug\netcoreapp3.1\Newegg.deps.json
+C:\Users\Amane\Downloads\newegg-marketplace-sdk-dotnet-master (2)\newegg-marketplace-sdk-dotnet-master\Newegg.Marketplace.SDK\Newegg\bin\Debug\netcoreapp3.1\Newegg.runtimeconfig.json
+C:\Users\Amane\Downloads\newegg-marketplace-sdk-dotnet-master (2)\newegg-marketplace-sdk-dotnet-master\Newegg.Marketplace.SDK\Newegg\bin\Debug\netcoreapp3.1\Newegg.runtimeconfig.dev.json
+C:\Users\Amane\Downloads\newegg-marketplace-sdk-dotnet-master (2)\newegg-marketplace-sdk-dotnet-master\Newegg.Marketplace.SDK\Newegg\bin\Debug\netcoreapp3.1\Newegg.dll
+C:\Users\Amane\Downloads\newegg-marketplace-sdk-dotnet-master (2)\newegg-marketplace-sdk-dotnet-master\Newegg.Marketplace.SDK\Newegg\bin\Debug\netcoreapp3.1\Newegg.pdb
+C:\Users\Amane\Downloads\newegg-marketplace-sdk-dotnet-master (2)\newegg-marketplace-sdk-dotnet-master\Newegg.Marketplace.SDK\Newegg\obj\Debug\netcoreapp3.1\Newegg.csprojAssemblyReference.cache
+C:\Users\Amane\Downloads\newegg-marketplace-sdk-dotnet-master (2)\newegg-marketplace-sdk-dotnet-master\Newegg.Marketplace.SDK\Newegg\obj\Debug\netcoreapp3.1\Newegg.AssemblyInfoInputs.cache
+C:\Users\Amane\Downloads\newegg-marketplace-sdk-dotnet-master (2)\newegg-marketplace-sdk-dotnet-master\Newegg.Marketplace.SDK\Newegg\obj\Debug\netcoreapp3.1\Newegg.AssemblyInfo.cs
+C:\Users\Amane\Downloads\newegg-marketplace-sdk-dotnet-master (2)\newegg-marketplace-sdk-dotnet-master\Newegg.Marketplace.SDK\Newegg\obj\Debug\netcoreapp3.1\Newegg.dll
+C:\Users\Amane\Downloads\newegg-marketplace-sdk-dotnet-master (2)\newegg-marketplace-sdk-dotnet-master\Newegg.Marketplace.SDK\Newegg\obj\Debug\netcoreapp3.1\Newegg.pdb
+C:\Users\Amane\Downloads\newegg-marketplace-sdk-dotnet-master (2)\newegg-marketplace-sdk-dotnet-master\Newegg.Marketplace.SDK\Newegg\obj\Debug\netcoreapp3.1\Newegg.genruntimeconfig.cache
+C:\Users\Amane\Desktop\GetOrder\bin\Debug\netcoreapp3.1\Newegg.exe
+C:\Users\Amane\Desktop\GetOrder\bin\Debug\netcoreapp3.1\Newegg.deps.json
+C:\Users\Amane\Desktop\GetOrder\bin\Debug\netcoreapp3.1\Newegg.runtimeconfig.json
+C:\Users\Amane\Desktop\GetOrder\bin\Debug\netcoreapp3.1\Newegg.runtimeconfig.dev.json
+C:\Users\Amane\Desktop\GetOrder\bin\Debug\netcoreapp3.1\Newegg.dll
+C:\Users\Amane\Desktop\GetOrder\bin\Debug\netcoreapp3.1\Newegg.pdb
+C:\Users\Amane\Desktop\GetOrder\obj\Debug\netcoreapp3.1\Newegg.csprojAssemblyReference.cache
+C:\Users\Amane\Desktop\GetOrder\obj\Debug\netcoreapp3.1\Newegg.AssemblyInfoInputs.cache
+C:\Users\Amane\Desktop\GetOrder\obj\Debug\netcoreapp3.1\Newegg.AssemblyInfo.cs
+C:\Users\Amane\Desktop\GetOrder\obj\Debug\netcoreapp3.1\Newegg.dll
+C:\Users\Amane\Desktop\GetOrder\obj\Debug\netcoreapp3.1\Newegg.pdb
+C:\Users\Amane\Desktop\GetOrder\obj\Debug\netcoreapp3.1\Newegg.genruntimeconfig.cache
